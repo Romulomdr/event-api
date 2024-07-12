@@ -1,4 +1,4 @@
-# Event-api 
+# Event-API
 
 Microservice made for event management, helping to create the event, create discount coupons and other functions.
 
