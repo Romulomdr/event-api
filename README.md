@@ -11,6 +11,7 @@ Microservice made for event management, helping to create the event, create disc
 * [PostgreSQL](https://docs.spring.io/spring-boot/docs/1.5.22.RELEASE/reference/html/boot-features-sql.html) - A JDBC and R2DBC driver that allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.
 * [Spring Web](https://docs.spring.io/spring-boot/reference/web/index.html) - Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/reference/using/devtools.html) - Provides fast application restarts, LiveReload, and configurations for enhanced development experience.
+* [Flywaydb](https://www.baeldung.com/database-migrations-with-flyway) - Enables developers to manage database evolution in a reliable, automated, and incremental manner.
   
 ## ✒️ Autor
 
